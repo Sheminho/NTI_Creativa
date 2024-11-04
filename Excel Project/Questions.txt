@@ -1,0 +1,29 @@
+Q1: What is the average price of houses for each house type?
+Q2: Which city has the highest average house prices?
+Q3: How does the number of bedrooms affect house prices?
+Q4: Do houses with more bathrooms tend to have higher prices?
+Q5: Are furnished houses generally more expensive than unfurnished ones?
+Q6: What percentage of the listed houses are furnished?
+Q7: How do house prices differ between those sold with cash, installments, or both?
+Q8: Are installment options more common for more expensive or cheaper houses?
+Q9: How does the number of floors influence the total price?
+Q10: What is the price difference between houses delivered "soon" versus those with a delivery date more than 6 months away?
+Q11: Which city offers the largest area for the same price range?
+Q12: Is there a strong correlation between the area of the house and its price?
+Q13: Do houses listed as "Finished" tend to be priced higher than those marked as "semi-finished" or "shell and core"?
+Q14: Are houses with longer delivery timelines more likely to offer installment plans?
+Q15: Is there a trend between payment options and house types (e.g., are villas more likely to be cash-only)?
+Q16: What is the average price for each house type and Payment method whether it's furnished or not?
+
+
+
+
+1- Standalone Villa has the biggest average price with 13.5M EGP and Studios is the least with 1.5M EGP.
+2- North coast has the bigest average prices with 4.6M EGP.
+3- The furished houses are generally more expensive with about 27% than not.
+4- No. of bedrooms and bathrooms is Highly positive correlated with the price with more than 95%.
+5- installment options are more commonly in cheaper houses with about 55% compared with 50% in the expensive.
+6- Ground floor has the biggest price average with about 4M EGP and the 9th is the least with 1.75M EGP.
+7- Dawahy in portsaid has the lowest meter price with 1.3K EGP and El Gouna is the most expensive with 56K EGP per meter.
+8- Property Price is correlated positively with the Area with 51%.
+9- Town house has the biggest chance of installment options with 84% against Standalone villa with 41%.
